@@ -1,5 +1,5 @@
 """
-通过文件导入实现单例
+使用模块实现单例模式
 """
 
 class Singleton(object):

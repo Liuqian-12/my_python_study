@@ -1,5 +1,7 @@
-from python单例模式.singleton import singleton as s1
-from python单例模式.singleton import singleton as s2
+# use_module.py
+
+from python单例模式.use_module import singleton as s1
+from python单例模式.use_module import singleton as s2
 
 print(s1, id(s1))
 print(s2, id(s2))
