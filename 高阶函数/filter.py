@@ -1,3 +1,4 @@
+# filter()这个高阶函数，关键在于正确实现一个“筛选”函数
 L1 = list(filter(lambda x: x % 2 == 1, range(1, 6)))
 print(L1)
 
